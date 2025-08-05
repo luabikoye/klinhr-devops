@@ -1,0 +1,9 @@
+<div class="tab">
+                            <a href="profile?nav=1"><button class="tablinks <?php if($_GET['nav']==1){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'personal-info')" id="defaultOpen">Personal Info</button></a>
+                            <a href="career-info?nav=2"><button class="tablinks <?php if($_GET['nav']==2){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'career-info')">Career Info</button></a>
+                            <a href="work-experience?nav=3"><button class="tablinks <?php if($_GET['nav']==3){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'work-experience')">Work Experience</button></a>
+                            <a href="upload-credentials?nav=4"><button class="tablinks <?php if($_GET['nav']==4){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'upload-credentials')">Upload Credentials</button></a>
+                            <a href="reference?nav=5"><button class="tablinks <?php if($_GET['nav']==5){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'reference')">Reference</button></a>
+                            <a href="job-role?nav=6"><button class="tablinks <?php if($_GET['nav']==6){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'job-role')">Job Role</button></a>
+                            <a href="social_media_links?nav=7"><button class="tablinks <?php if($_GET['nav']==7){ echo 'tab_active'; } ?>" style="padding: 14px 23px;" onclick="openCity(event, 'social_media_links')">Social Media Links</button></a>
+                        </div>

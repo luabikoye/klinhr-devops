@@ -1,0 +1,8 @@
+﻿id,staff_id,surname,firstname,middlename,sex,marital_status,date_of_birth,date_employed,location_code,state_origin,local_govt_of_origin_code,current_address_1,email_address,phone_number,salary_band
+,KC-SB-001,Omotoso,Adedotun,Samuel,Male,Married,10/10/1964,3/1/2017,Shasha dopemu,Ekiti,Oye,No 7 Olanrewaju Olota Captain Lagos,adedotunomotoso@gmail.com,8068643991,entry-level
+,KC-SB-002,Oriazowalan,Jennifer,Odion,Female    ,Single,6/28/1988,0000-00-00,Abule egba,Lagos,Alimosho,"18, Ogundele Street, Abulegba",jenniferdions@gmail.com,8133261212,entry-level
+,KC-SB-003,Emele,Joy,Onyinyechi,Female   ,Single,10/10/1995,0000-00-00,Festac,Lagos,Amuwo-Odofin,17 Tony Nwakama Satellite Town Lagos,joyemele02@gmail.com,7065307255,entry-level
+,KC-SB-004,Adeoye,Oluwabukola,Esther,Female    ,Married,5/5/1989,0000-00-00,idimu,Lagos,local_govt,7shilo Street Ayobo Lagos,estherme2016@yahoo.com,8160843393,entry-level
+,KC-SB-005,OLANREWAJU,MARIAN,OLUWASEUN,Female    ,Married,2/11/1986,0000-00-00,Ogunlana drive surulere,Ogun,Ijebu North,"5, Adabonya Olugbenga Close, Off Igbe Road,Gi",maryjaymary@yahoo.com,8115506866,entry-level
+,KC-SB-006,Kareem,Adeola,Sadiat,Female    ,Married,7/14/1984,0000-00-00,Ilupeju,Ogun,Ijebu Ode,"13, Araromi Street Palm Avenue Mushin Lagos.",halimahadeola8@gmail.com,8028351791,entry-level
+,KC-SB-007,Akotipopo,Mary,Oluwatosin,Female   ,Single,6/13/1996,0000-00-00,Abule Egba,Lagos,Ikeja,7 Ebun Street Papa Ashafa Agege Lagos,akotipopomary@gmail.com,9037172839,entry-level

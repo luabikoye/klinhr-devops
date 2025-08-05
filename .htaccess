@@ -1,0 +1,16 @@
+RewriteEngine on
+
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [NC,L] 
+
+# Disable directory indexing for the current directory and its subdirectories.
+Options -Indexes
+
+RewriteCond %{HTTP_REFERER} ^$
+RewriteRule ^profile\.js$ - [F,L]
+
+RewriteCond %{HTTP_REFERER} ^$
+RewriteRule ^fav\.js$ - [F,L]

@@ -1,0 +1,16 @@
+@media (max-width: 1500px)  {
+    .fa-eye {
+      margin-right: 90px;
+    }
+    .fa-eye-slash {
+      margin-right: 90px;
+    }
+    @media (max-width:320px) and (max-width: 480px) {
+      .fa-eye {
+        margin-right: 0px;
+      }
+      .fa-eye-slash {
+      margin-right: 0px;
+    }
+    }
+  }
