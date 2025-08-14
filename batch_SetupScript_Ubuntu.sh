@@ -23,7 +23,7 @@ echo "####################################"
 
 
 #Pull project from gits
-sudo wget --header 'Authorization: token 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' https://github.com/luabikoye/klinhr-devops/archive/refs/heads/main.zip
+sudo wget --header 'Authorization: token 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' https://github.com/luabikoye/klinhr-devops/archive/refs/heads/main.zip
 
 sudo unzip main.zip
 
@@ -31,7 +31,7 @@ sudo unzip main.zip
 sudo rm -rf /var/www/html/index.html
 
 #copy project to server directory
-sudo cp -r klinhr-main/* /var/www/html/
+sudo cp -r klinhr-devops-main/* /var/www/html/
 
 echo
 echo "###############################################"
