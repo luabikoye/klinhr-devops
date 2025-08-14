@@ -23,7 +23,7 @@ echo "####################################"
 
 
 #Pull project from gits
-sudo wget --header 'Authorization: token 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' https://github.com/luabikoye/klinhr-devops/archive/refs/heads/main.zip
+sudo wget --header 'Authorization: token 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' https://github.com/luabikoye/klinhr-devops/archive/refs/heads/main.zip
 
 sudo unzip main.zip
 
